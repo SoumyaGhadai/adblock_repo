@@ -11,5 +11,6 @@ refer files
 
 go: https://www.tampermonkey.net/
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1
+https://github.com/TheRealJoelmatic/RemoveAdblockThing/releases/download/v4/Youtube-Ad-blocker-Reminder-Remover.user.js
 
 
